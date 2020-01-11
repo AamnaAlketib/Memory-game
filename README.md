@@ -1,5 +1,6 @@
 # Memory Game Project
-This is a version of memory game (could be better) written in Javascript
+This is a version of memory game (could be better) written in Javascript  
+The main code is provided by Udacity
 ## Instructions
     pick two cards they will be flipped 
     if they match they stay flipped
